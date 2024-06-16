@@ -49,13 +49,13 @@
 - Created AWS Glue Catalog (Information about the data means, what is contains, metadata etc.)
 - Queried data using AWS Athena (Ad-hoc query tool)
 - Used AWS Lambda for Pre-Processing data (Transform, cleaning and Normalization) 
-- Constructed ETL Pipeline [(View)](https://github.com/Rumit-Varsani/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project/blob/main/ETL%20AWS%20Glue.png) Using AWS Glue ETL and Created Job for performing it
+- Constructed ETL Pipeline [(View)](https://github.com/jemeesmavani/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project-main/blob/main/ETL%20AWS%20Glue.png) Using AWS Glue ETL and Created Job for performing it
 - Configured AWS Glue Crawler on top of clean data 
 - Created Trigger in AWS Lambda for automate task whenever any raw data come into S3
 - Store Reporting/Analytics data in S3
 - Visualized data using AWS QuickSight 
 
-### Analysis from the data [(View)](https://github.com/Rumit-Varsani/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project/blob/main/Dashboard.jpg):
+### Analysis from the data [(View)](https://github.com/jemeesmavani/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project-main/blob/main/Dashboard.jpg):
 
 - The most liked videos are in the People and Blogs Category.
 - The music category has the most video views.
